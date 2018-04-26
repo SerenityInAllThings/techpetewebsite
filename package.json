@@ -1,0 +1,26 @@
+{
+  "name": "techpetewebsite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "test": "echo no thanks"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SerenityInAllThings/techpetewebsite.git"
+  },
+  "author": "SerenityInAllThings",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SerenityInAllThings/techpetewebsite/issues"
+  },
+  "homepage": "https://github.com/SerenityInAllThings/techpetewebsite#readme",
+  "devDependencies": {
+    "@types/node": "9.6.6",
+    "ts-loader": "4.2.0",
+    "typescript": "2.8.3",
+    "webpack": "4.6.0",
+    "webpack-cli": "^2.0.15"
+  }
+}
